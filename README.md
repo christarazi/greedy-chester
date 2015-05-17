@@ -1,5 +1,5 @@
 # Greedy Chester
-A Python3 solution to [/r/dailyprogrammer's hard problem #214](http://www.reddit.com/r/dailyprogrammer/comments/3629st/20150515_challenge_214_hard_chester_the_greedy/).
+A Python3 solution to [/r/dailyprogrammer's problem #214 [Hard]](http://www.reddit.com/r/dailyprogrammer/comments/3629st/20150515_challenge_214_hard_chester_the_greedy/).
 
 I used two solutions to compare their respectives times: **brute force** and [**k-d tree**](http://en.wikipedia.org/wiki/K-d_tree).
 
