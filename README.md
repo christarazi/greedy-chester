@@ -8,7 +8,7 @@ I used [@stefankoegl's implemenation](https://github.com/stefankoegl/kdtree) of 
 *Note: I did change my local copy to compute the squared distances to adhere to the challenge's requirements.*
 
 
-## Sample Usage
+## Sample Runs
 
 ```shell-session
 $ python3.4 greedy_chester.py sampleCoords.txt
